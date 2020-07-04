@@ -1,0 +1,22 @@
+{
+"type": "GenericSmelter",
+"name": "Infinity Stone Maker",
+"description": "Smelter for Infinity Stone, signed by God himself.",
+"liquidCapacity": 50,
+"size": 2,
+"health": 2147000000,
+"hasPower": true,
+"hasLiquids": true,
+"hasItems": true,
+"craftTime": 30,
+"updateEffect": "smeltsmoke",
+"consumes": {
+  "power": 0.7
+},
+"requirements": [],
+"category": "crafting",
+"research": "pulverizer",
+"idleSound": "respawning",
+"idleSoundVolume": 0.5,
+"outputItem": "infinitystone/1",
+}

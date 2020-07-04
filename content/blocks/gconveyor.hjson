@@ -1,0 +1,12 @@
+{
+"type": "Conveyor",
+"name": "God's conveyor",
+"description": "Twice the speed of titanium, probably unbreakable!",
+"requirements": [
+],
+"category": "distribution",
+"health": 2147000000,
+"speed": 20,
+"buildCostMultiplier": 0.5,
+"research": "duo"
+}

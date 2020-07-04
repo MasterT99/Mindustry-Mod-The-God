@@ -1,0 +1,14 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "OP Copper Generator",
+	"description": "Magically produces ALOT of power from copper. Don't ask!",
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"health": 2147000000,
+	"itemDuration": 100,
+	"powerProduction": 10000000.00,
+	"requirements": [],
+	"category": "power",
+	"research": "duo"
+}

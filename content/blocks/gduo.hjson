@@ -1,0 +1,36 @@
+{
+  "name": "God's duo",
+  "description": "It's supposed to be a really OP turret, but its just broken and it lags the game",
+	"type": "ItemTurret",
+	"health": 2147000000,
+	"size": 1,
+	"reload": 1,
+	"range": 100,
+	"rotatespeed": 100,
+	"targetAir": true,
+	"maxAmmo": 10000,
+	"ammo": {
+		"copper": {
+			"type": "BasicBulletType",
+			"speed": 100,
+			"damage": 10000000,
+			"bulletWidth": 50,
+			"bulletHeight": 70,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "coreLand",
+			"ammoMultiplier": 1000,
+			"knockback": 0.1,
+			"hitShake": 0.5,
+			"frontColor": "#ffffff",
+			"lightining": 10,
+			"lightningLength": 50
+		},
+                "lead": {   	"type": "BasicBulletType",   	"speed": 100,   	"damage": 10000000,   	"bulletWidth": 50,   	"bulletHeight": 70,   	"shootEffect": "shootSmall",   	"smokeEffect": "coreLand",   	"ammoMultiplier": 1000,   	"knockback": 0.1,   	"hitShake": 0.5,   	"frontColor": "#ffffff",   	"lightining": 10,   	"lightningLength": 50  	},
+                "coal": {   	"type": "BasicBulletType",   	"speed": 100,   	"damage": 10000000,   	"bulletWidth": 50,   	"bulletHeight": 70,   	"shootEffect": "shootSmall",   	"smokeEffect": "coreLand",   	"ammoMultiplier": 1000,   	"knockback": 0.1,   	"hitShake": 0.5,   	"frontColor": "#ffffff",   	"lightining": 10,   	"lightningLength": 50  	},
+                "sand": {   	"type": "BasicBulletType",   	"speed": 100,   	"damage": 10000000,   	"bulletWidth": 50,   	"bulletHeight": 70,   	"shootEffect": "shootSmall",   	"smokeEffect": "coreLand",   	"ammoMultiplier": 1000,   	"knockback": 0.1,   	"hitShake": 0.5,   	"frontColor": "#ffffff",   	"lightining": 10,   	"lightningLength": 50  	}
+	},
+	"requirements": [
+	],
+	"category": "turret",
+	"research": "duo"
+}

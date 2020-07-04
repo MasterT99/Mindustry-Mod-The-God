@@ -1,0 +1,16 @@
+{
+    "name": "True Wireless Power",
+    "description": "Like a power node, but everywhere and truly wireless.",
+	"type": "PowerNode",
+    "solid": true,
+    "health": 2147000000,
+    "size": 1,
+    "laserRange": 100,
+    "maxNodes": 10000,
+    "layer": "power",
+    "requirements": [
+        "copper/1"
+    ],
+	"category": "power",
+    "research": "duo"
+}

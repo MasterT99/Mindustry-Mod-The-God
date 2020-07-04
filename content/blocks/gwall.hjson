@@ -1,0 +1,12 @@
+{
+"name": "God's wall",
+"description": "Probably Unbreakable!",
+"type": "Wall",
+"destructible": false,
+"health": 2147000000,
+"size": 2,
+"requirements": [
+],
+"category": "defense",
+"research": "duo"
+}

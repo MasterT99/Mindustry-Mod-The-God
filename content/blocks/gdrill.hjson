@@ -1,0 +1,16 @@
+{
+	"name": "God's drill",
+	"description": "The speed of an airblast drill, the size of a laser drill, no power used",
+	"type": "Drill",
+	"size": 3,
+	"tier": 100,
+	"health": 2147000000,
+	"rotateSpeed": 2,
+	"drillTime": 0.01,
+	"liquidBoostIntensity": 2,
+	"requirements": [
+		"copper/1"
+	],
+	"category": "production",
+	"research": "duo"
+}

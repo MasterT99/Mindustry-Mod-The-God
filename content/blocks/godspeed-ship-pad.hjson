@@ -1,0 +1,13 @@
+{
+	"name": "Godspeed Pad",
+	"description": "Provides transformation into an extremely powerful and dangerous ship.",
+	"type": "MechPad",
+	"health": 2147000000,
+	"mech": "godspeed-ship",
+	"size": 2,
+	"category": "upgrade",
+	"research": "duo",
+	"requirements": [
+		{ "item": "copper", "amount": 1 },
+	]
+}
