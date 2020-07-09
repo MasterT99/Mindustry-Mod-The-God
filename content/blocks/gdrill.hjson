@@ -3,10 +3,10 @@
 	"description": "The speed of an airblast drill, the size of a laser drill, no power used",
 	"type": "Drill",
 	"size": 3,
-	"tier": 100,
+	"tier": 8,
 	"health": 2147000000,
 	"rotateSpeed": 2,
-	"drillTime": 0.01,
+	"drillTime": 200,
 	"liquidBoostIntensity": 2,
 	"requirements": [
 		"copper/1"
