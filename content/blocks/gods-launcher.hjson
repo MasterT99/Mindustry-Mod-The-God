@@ -3,15 +3,11 @@
 	"description": "Functions like a normal launch pad with a little less time need and more storage",
 	"type": "LaunchPad",
 	"itemCapacity": 300,
-	"hasItems": true,
-	"hasPower": true,
-	"consumesPower": true,
+	"launchTime": 60,
 	"health": 2147000000,
 	"size": 3,
 	"requirements": [
-		{ "item": "copper", "amount": 1 }
 	],
 	"category": "effect",
 	"research": "duo",
-	"launchTime": 35
 }

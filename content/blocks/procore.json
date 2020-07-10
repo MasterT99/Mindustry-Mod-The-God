@@ -1,0 +1,12 @@
+{
+	"name": "Core Pro",
+	"description": "A really op core.",
+	"type": "CoreBlock",
+	"health": 99999999999,
+	"size": 3,
+	"itemCapacity": 8000,
+	"requirements": [],
+	"stateRules": "infiniteResources",
+	"alwaysUnlocked": "true",
+	"category": "effect"
+}

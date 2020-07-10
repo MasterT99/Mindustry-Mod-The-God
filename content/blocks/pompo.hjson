@@ -1,0 +1,16 @@
+name: Oil Production
+description: Oil Production from nothing!
+health: 300
+type: SolidPump
+result: oil
+size: 2
+pumpAmount: 100000000
+hasPower: true
+consumes: {
+  power: 0.1
+}
+requirements: [
+  copper/0
+], 
+category: production
+alwaysUnlocked: true

@@ -1,0 +1,24 @@
+{
+	"name": "Super Projector",
+	"description": "A new shield!",
+	"type": "ForceProjector",
+	"health": 2147000000,
+	"size": 1,
+	"radius":360.0,
+	"phaseRadiusBoost":240.0,
+	"consumes":{
+	  	"items": {
+			"items": [
+				{ "item": "copper", "amount": 1}
+			],
+			"booster":true
+		}
+	    },
+	"requirements": [
+		{ "item": "copper", "amount": 0}
+	],
+	"boost":true,
+	"category": "defense",
+	//"research": ""
+	"alwaysUnlocked": true
+}

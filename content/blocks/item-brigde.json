@@ -1,0 +1,14 @@
+{
+	"name": "God's Item Bridge",
+	"description": "An OP version.",
+	"type": "BufferedItemBridge",
+	"health": 450,
+	"size": 1,
+	"range": 100,
+	"speed": 100,
+	"bufferCapacity": 20,
+	"requirements": [
+	],
+	"category": "distribution",
+	"research": "duo"
+}

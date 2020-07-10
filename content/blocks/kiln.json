@@ -1,5 +1,5 @@
 {
-	"health": 2147000000,
+	"health": 500,
 	"craftTime": 0.1,
 	"consumes": {
 		"items": {
@@ -9,5 +9,5 @@
 		},
 	},
 	"requirements": [],
-	"outputItem": {"item": "metaglass", "amount": 650}
+	"outputItem": {"item": "metaglass", "amount": 500}
 }
