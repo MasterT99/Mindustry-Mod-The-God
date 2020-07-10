@@ -3,7 +3,7 @@ A mod for Mindustry that adds God's items to the game made by the god themselves
 
 ## Things Added
 - New Conveyor
-- New Turret (Don't spam or it will lag the game)
+- New Turret (May lag the game)
 - New Item Maker for Infinity Stone
 - New Wall
 - New Drill
