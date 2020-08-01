@@ -14,6 +14,8 @@ A mod for Mindustry that adds God's items to the game made by the god themselves
 - New Force Projector
 - New Core
 - New Item and Liquid Bridges
+- New Repair Point
+- New Infinite Item Generator
 - Infinity Stone (Unused)
 
 ## Things Improved

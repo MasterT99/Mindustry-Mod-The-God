@@ -6,6 +6,7 @@
 	"size": 1,
 	"radius":360.0,
 	"phaseRadiusBoost":240.0,
+	"breakage":21470000,
 	"consumes":{
 	  	"items": {
 			"items": [

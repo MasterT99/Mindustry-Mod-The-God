@@ -2,7 +2,7 @@
       "type": "separator",
       "name": "God's Extractor",
       "description": "Extracts from nothing!",
-      "itemCapacity": 10000,
+      "itemCapacity": 10000000000,
       "results": [
         {"item": "phase-fabric", "amount": 500},
         {"item": "surge-alloy", "amount": 500},

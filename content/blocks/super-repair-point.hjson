@@ -1,0 +1,15 @@
+"type": "RepairPoint"
+"name": "Super Repair Point"
+"description": "A better version of the repair point. Has a longer range and heals faster."
+"size": 1
+"hasPower": true
+"hasLiquids": false
+"hasItems": false
+"powerUse": 3.0
+requirements: [
+  lead/50
+]
+repairRadius: 150
+repairSpeed: 100.0
+category: units
+alwaysUnlocked: true
