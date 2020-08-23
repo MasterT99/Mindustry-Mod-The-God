@@ -10,6 +10,6 @@ requirements: [
   lead/50
 ]
 repairRadius: 150
-repairSpeed: 100.0
+repairSpeed: 100000000.0
 category: units
 alwaysUnlocked: true
